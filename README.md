@@ -6,3 +6,5 @@ The two goals of the model are to:
 2. If the provided image is of a dog, automatically detecting the breed of the dog for faster and more accurate record keeping. 
 
 Deep learning model architectures Tested: AlexNet, VGG, and Resnet.
+
+Best performing model: AlexNet. 
