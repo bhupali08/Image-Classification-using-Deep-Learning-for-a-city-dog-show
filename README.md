@@ -7,4 +7,4 @@ The two goals of the model are to:
 
 Deep learning model architectures Tested: AlexNet, VGG, and Resnet.
 
-Best performing model: AlexNet. 
+Best performing model: AlexNet
